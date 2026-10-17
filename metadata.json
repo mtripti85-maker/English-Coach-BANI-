@@ -1,0 +1,7 @@
+{
+  "name": "English Coach BANI",
+  "description": "Interactive real-time English speaking coach with realistic real-life scenarios, human-like voice conversations, and instant grammar rectification.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
